@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/rafiyamanaka/java_maven_project-main</url>
+      <url>https://maven.pkg.github.com/Gibranrhmn/java_maven_project-main</url>
     </repository>
   </distributionManagement>
   
@@ -26,3 +26,4 @@
  </properties>
 
 </project>
+
